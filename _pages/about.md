@@ -9,7 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Jinhua, Zhejiang</p>
+    <p> SmartLab 21-508 </p>
+    <p> 688 Dadao Rd </p>
+    <p> Jinhua, Zhejiang </p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
